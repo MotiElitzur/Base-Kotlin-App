@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Base Kotlin APP</string>
+    <string name="users_loading_message">No users yet</string>
+</resources>
